@@ -1,0 +1,23 @@
+{
+  "name": "is-decimal-string",
+  "version": "1.0.0",
+  "description": "is decimal string",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flowerofmycountry/is-decimal-string.git"
+  },
+  "keywords": [
+    "isdecimal",
+    "decimalstring"
+  ],
+  "author": "wujin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flowerofmycountry/is-decimal-string/issues"
+  },
+  "homepage": "https://github.com/flowerofmycountry/is-decimal-string#readme"
+}
